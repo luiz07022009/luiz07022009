@@ -1,17 +1,3 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F76500&center=true&vCenter=true&width=300&lines=Praise+the+sun!" alt="Typing SVG" /></a>
-</p>
-
-<div align="center">
-  <img align="center" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" alt="Pixel Art" align="right" width="200">
-
-  <br>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=17F700&center=true&vCenter=true&lines=%E2%92%B6+Rest+at+the+bonfire" alt="Typing SVG" /></a>
-</p>
-</div>
-
 # Technologies and tools
 <div align="center" style="display: inline_block">
   <img align="center" alt="Jappe-HTML" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
