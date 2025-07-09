@@ -14,7 +14,6 @@
 <div align="center" style="display: inline_block">
   <img align="center" alt="Jappe-Postgre" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Jappe-React" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img align="center" alt="Jappe-SQLite" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 </div>
 <br>
 
