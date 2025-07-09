@@ -1,4 +1,4 @@
-<a href="https://github.com/luiz070202009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&align=center" alt="github stats" /></a> | <a href="https://github.com/luiz07022009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&theme=dark&hide_border=true" /></a> 
+<a href="https://github.com/luiz070202009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&align=center" alt="github stats" /></a> <a href="https://github.com/luiz07022009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&theme=dark&hide_border=true" /></a> 
 
 # Technologies and tools
 <div align="center" style="display: inline_block">
