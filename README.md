@@ -1,6 +1,9 @@
-![Luiz Github Stats](https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&theme=dark)
-
+# GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&count_private=true&theme=dark" />
+</div>
 <br>
+
 # Technologies and tools
 <div align="center" style="display: inline_block">
   <img align="center" alt="Jappe-HTML" height="95" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
