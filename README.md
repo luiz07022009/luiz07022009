@@ -1,4 +1,4 @@
-# GitHub Stats
+# My Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&count_private=true&theme=dark" />
 </div>
