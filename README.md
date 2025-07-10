@@ -21,6 +21,6 @@
 
 <div> 
   <a href="mailto:luiz.libano.github@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-eduardo-rosa-libano-298230374)
+  <a href="https://www.linkedin.com/in/luiz-eduardo-rosa-libano-298230374"><img="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
