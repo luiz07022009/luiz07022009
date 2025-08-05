@@ -6,7 +6,7 @@
 # My Stats
 <P align="center">
   <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&theme=transparent"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&&langs_count=8"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&&langs_count=8&theme=transparent"/>
 </P> 
 
 # Technologies and tools
