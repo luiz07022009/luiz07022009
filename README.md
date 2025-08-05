@@ -5,7 +5,8 @@
 
 # My Stats
 <P align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=luiz07022009&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="github stats" /></a> <a href="https://github.com/luiz07022009/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&theme=dark&hide_border=true" /></a>
+  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=luiz07022009&show_icons=true&theme=transparent"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz07022009&layout=compact&&langs_count=8"/>
 </P> 
 
 # Technologies and tools
